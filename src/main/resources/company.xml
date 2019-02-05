@@ -1,0 +1,14 @@
+<company>
+	<staff>
+		<firstname id="1">yong</firstname>
+		<lastname id="2" type="temp">mook kim</lastname>
+		<nickname id="3" type="temp2" length="5">mkyong</nickname>
+		<salary id="4" type="temp3" length="6" branch="hyd">100000</salary>
+	</staff>
+	<staff>
+		<firstname>low</firstname>
+		<lastname>yin fong</lastname>
+		<nickname>fong fong</nickname>
+		<salary>200000</salary>
+	</staff>
+</company>
